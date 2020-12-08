@@ -13,7 +13,7 @@
 
 <p align="center">
   
-  <img src="public/images/game-concentration-back.png" width="300" padding='30px' alt="Back">
+  <img src="public/images/game-concentration-back.png" width="300" margin='30px' alt="Back">
   <img src="public/images/game-concentration.png" width="300" alt="Front">
 </p>
 
