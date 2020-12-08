@@ -13,5 +13,6 @@
 
 <p align="center">
   <img src="public/images/game-concentration.png" width="300" alt="Список всех задач">
+  <img src="public/images/game-concentration-back.png" width="300" alt="Список всех задач">
 </p>
 
