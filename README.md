@@ -7,6 +7,6 @@
 <hr>
 
 <p align="center">
-  <img src="public/images/game-concentration" width="300" alt="Список всех задач">
+  <img src="public/images/game-concentration.png" width="300" alt="Список всех задач">
 </p>
 
