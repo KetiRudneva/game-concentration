@@ -21,5 +21,6 @@
   
   <img src="public/images/game-concentration-back.png" width="300" margin='30px' alt="Back">
   <img src="public/images/game-concentration.png" width="300" alt="Front">
+  <iframe src='//gifs.com/embed/game-concentration-jZo65Y' frameborder='0' scrolling='no' width='382px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 </p>
 
