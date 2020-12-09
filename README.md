@@ -18,11 +18,6 @@
 <hr>
 
 <p align="center"> 
-  <img src="public/images/game-concentration-back.png" width="300" margin='30px' alt="Back">
-  <img src="public/images/game-concentration.png" width="300" alt="Front">
+<img align="center" width="800" src="https://j.gifs.com/jZo65Y.gif"/>
 </p>
-
-
-<img src="https://j.gifs.com/jZo65Y.gif"/>
-
 
