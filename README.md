@@ -8,16 +8,19 @@
 — Есть кнопка для старта игры, после нажатия через API рандомно загружаются фотокарточки собак.<br>
 — Пользователь может нажать на любую карточку, чтобы увидеть скрытое изображение. Изображение остаётся видимым пока пользователь не нажмёт на другую карточку.
 
+<hr>
+
+<p align="center"> 
+<img align="center" width="800" src="https://j.gifs.com/jZo65Y.gif"/>
+</p>
+
+<hr>
+
+
 <strong>Используемые технологии</strong>: <br>
 — HTML<br>
 — CSS<br>
 — JavaScript<br>
 — Express.js<br>
 — Node.js<br>
-
-<hr>
-
-<p align="center"> 
-<img align="center" width="800" src="https://j.gifs.com/jZo65Y.gif"/>
-</p>
 
